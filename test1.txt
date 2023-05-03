@@ -1,5 +1,6 @@
 
 i have updated ths throuh master brach
-
+ i ahve updated though tester branch to check replication
 this is the first text file
+
 hello how are you
